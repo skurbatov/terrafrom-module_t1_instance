@@ -1,4 +1,4 @@
-# terrafrom-module_t1_instance
+# terrafrom-module_vcloud_vapp
 
 Terraform module for creating an empty instance in vApp on VMware vCloud Director.
 
